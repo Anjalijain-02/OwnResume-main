@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(45deg, #CFE5FA, #518DD1);
+}
+/* #resume-form{ 
+    display: none;
+} */
+#resume-template{
+    display: none;
+}
+.myimg{
+    bottom: 1pc solid red;
+    border-radius: 50%;
+    width:500px;
+}
+.background{
+    background: linear-gradient(45deg, #CFE5FA, #518DD1);
+}
